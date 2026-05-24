@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "sindhu",
+    "age": 22,
+    "department": "Computer Science",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 2,
+    "name": "neli",
+    "age": 30,
+    "department": "Data Science",
+    "city": "Bangalore"
+  }
+]
